@@ -1,0 +1,1 @@
+A simple mobile app to track employee clock in and clock out times, and export the calculated working hours to Excel. 
